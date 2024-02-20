@@ -6,7 +6,7 @@ int main(){
     float b = 1.01;
 
 
-    printf("Ivanich : %f\n",b);
+    printf("fedvsdch : %f\n",b);
 
 
 
