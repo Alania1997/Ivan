@@ -6,6 +6,9 @@ int main(){
     float b = 1.01;
 
 
-    printf("xyu : %f\n",b);
+    printf("Ivanich : %f\n",b);
+
+
+
     return 0;
 }
